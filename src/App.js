@@ -52,7 +52,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
+      <div className="app">
         <AddPlayer onPlayerAdd={this.onPlayerAdd} />
         <PlayersList
           players={this.state.players}
