@@ -17,6 +17,9 @@ const Player = props => (
     >
       -
     </span>
+    <span className="player__button" onClick={() => props.onPlayerRemove()}>
+      x
+    </span>
   </li>
 );
 
