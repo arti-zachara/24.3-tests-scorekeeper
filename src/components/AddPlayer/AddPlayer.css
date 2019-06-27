@@ -11,11 +11,12 @@
   width: 70%;
   height: 25px;
   border: 2px solid lightseagreen;
+  padding: 2px 6px;
 }
 
 .addPlayer__submit {
   width: 30%;
-  height: 31px;
+  height: 33px;
   border: 2px solid lightseagreen;
   background-color: #cddace;
   font-weight: bold;
